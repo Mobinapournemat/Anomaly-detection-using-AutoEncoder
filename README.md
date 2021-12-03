@@ -4,4 +4,6 @@
 - Python
 - PyTorch
 - Matplotlib
+- Scikit-learn
+- Numpy
 - ...
