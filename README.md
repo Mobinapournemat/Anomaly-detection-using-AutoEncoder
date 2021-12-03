@@ -4,5 +4,4 @@
 - Python
 - PyTorch
 - Matplotlib
-- TSNE
 - ...
